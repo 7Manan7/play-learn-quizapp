@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "204587466034",
+    "project_id": "quizplaylearn-bc547",
+    "storage_bucket": "quizplaylearn-bc547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204587466034:android:aa0d2d6efd65de9395ab2b",
+        "android_client_info": {
+          "package_name": "com.manan.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204587466034-0mib267jqq1ar3ujkf3in2312alkhjog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manan.quizapp",
+            "certificate_hash": "d517d5c58c6a9e3675373bc9c96b02cec77c4114"
+          }
+        },
+        {
+          "client_id": "204587466034-ilb3v369ou81a4t1v5jm0g9ti2a2dou2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS17iSSdPBXe6DPzaLD0TcOKkX-S6Mpc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204587466034-ilb3v369ou81a4t1v5jm0g9ti2a2dou2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204587466034-01p8d6b3jiga3cdimmetvuma18pl2qms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manan.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
